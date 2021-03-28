@@ -19,3 +19,11 @@ git status
  Diffrence btween two branch.
  ### git push --set-upstream origin feature-readme
  push new branch to remote
+
+ ### git commit -am " add modified file & commit"
+ ### git reset 
+ reset uncommit added modifided file
+
+ ### git reset commit-hash
+ ### git reset --hard commit-hash
+git log
