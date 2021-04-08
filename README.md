@@ -25,5 +25,9 @@ git status
  reset uncommit added modifided file
 
  ### git reset commit-hash
+ Undo Commited changes
  ### git reset --hard commit-hash
-git log
+###git log
+Show commit history
+### git revert
+Jump to previous commit cteating new commit.
